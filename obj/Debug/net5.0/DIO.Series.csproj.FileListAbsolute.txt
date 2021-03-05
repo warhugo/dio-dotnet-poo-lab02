@@ -1,0 +1,16 @@
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/bin/Debug/net5.0/DIO.Series
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.csprojAssemblyReference.cache
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/mnt/c/Users/Hugo/Documents/Projects/dio/dotnet/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
